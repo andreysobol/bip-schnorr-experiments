@@ -1,3 +1,6 @@
+# fork from https://github.com/sipa/bips/commits/bip-schnorr/bip-schnorr
+# author: sipa (Pieter Wuille)
+
 import hashlib
 import binascii
 

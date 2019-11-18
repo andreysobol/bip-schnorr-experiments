@@ -1,3 +1,6 @@
+# fork from https://github.com/sipa/bips/commits/bip-schnorr/bip-schnorr
+# author: sipa (Pieter Wuille)
+
 import sys
 from reference import *
 
